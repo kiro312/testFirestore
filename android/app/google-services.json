@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "497114424894",
+    "firebase_url": "https://first-assignment-e6e6a-default-rtdb.firebaseio.com",
+    "project_id": "first-assignment-e6e6a",
+    "storage_bucket": "first-assignment-e6e6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497114424894:android:c7a7203c3e0d0d3ebdd36f",
+        "android_client_info": {
+          "package_name": "com.example.first_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4wPvS29qZFDE1A7gpKRUDB26RwfJWjzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
